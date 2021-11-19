@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DesktopContactsApp"
         mc:Ignorable="d"
-        Title="Contacts App" Height="450" Width="500">
+        Title="Contacts App" Height="450" Width="500" WindowStartupLocation="CenterScreen">
 
     <StackPanel Margin="10">
         <Button Content="New Contact"
